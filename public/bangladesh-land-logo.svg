@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 270" fill="none">
+  <defs>
+    <linearGradient id="map-fill" x1="24" y1="44" x2="158" y2="212" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09A943" />
+      <stop offset=".56" stop-color="#008A3D" />
+      <stop offset=".82" stop-color="#D62D20" />
+      <stop offset="1" stop-color="#00843B" />
+    </linearGradient>
+    <linearGradient id="south-glow" x1="96" y1="168" x2="108" y2="254" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F02D24" stop-opacity="0" />
+      <stop offset="1" stop-color="#F02D24" stop-opacity=".9" />
+    </linearGradient>
+    <filter id="node-glow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <clipPath id="country-shape">
+      <path d="M35 5 43 9 42 17 52 22 58 31 67 28 72 38 81 41 84 50 94 48 100 58 108 62 111 73 122 76 131 80 143 79 153 85 165 82 173 89 169 99 174 108 167 116 160 116 157 128 151 131 153 141 161 150 157 163 166 174 170 187 176 202 172 218 164 226 163 240 156 250 153 265 147 268 142 257 136 250 132 238 126 227 118 226 111 235 104 232 100 220 94 211 89 220 82 225 73 220 68 211 61 204 59 193 52 186 49 175 43 169 39 156 34 146 29 138 25 127 20 119 22 108 17 101 20 91 16 83 21 74 18 66 25 59 23 50 28 43 25 34 30 28 27 20 31 15 28 9Z" />
+    </clipPath>
+  </defs>
+  <path d="M35 5 43 9 42 17 52 22 58 31 67 28 72 38 81 41 84 50 94 48 100 58 108 62 111 73 122 76 131 80 143 79 153 85 165 82 173 89 169 99 174 108 167 116 160 116 157 128 151 131 153 141 161 150 157 163 166 174 170 187 176 202 172 218 164 226 163 240 156 250 153 265 147 268 142 257 136 250 132 238 126 227 118 226 111 235 104 232 100 220 94 211 89 220 82 225 73 220 68 211 61 204 59 193 52 186 49 175 43 169 39 156 34 146 29 138 25 127 20 119 22 108 17 101 20 91 16 83 21 74 18 66 25 59 23 50 28 43 25 34 30 28 27 20 31 15 28 9Z" fill="url(#map-fill)" />
+  <path d="M87 157C104 177 104 202 98 232L108 260 139 251 164 226 173 203 164 174 151 151Z" fill="url(#south-glow)" />
+  <g clip-path="url(#country-shape)" stroke="#E9FFF1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 18 53 34 48 47 57 61 48 77 58 89 52 102M77 35 72 51 83 64 77 78 90 91 84 107M111 59 105 74 117 87 108 101 121 114 113 129M145 78 137 94 149 109 139 123 151 139" stroke-width="1.1" opacity=".9" />
+    <path d="M20 91 40 96 56 89 73 98 88 91 105 101 122 95 140 101 171 96M23 119 43 112 59 124 78 117 95 129 113 121 131 132 156 125M30 145 49 137 67 149 85 141 104 154 122 145 146 153M43 169 61 160 80 174 99 165 116 179 135 169 161 181M55 192 71 183 88 197 105 190 121 204 143 195" stroke-width="1" opacity=".78" />
+    <path d="M42 74C67 58 95 56 119 67S155 92 168 111M24 112C50 101 69 110 85 128S104 159 105 181M83 111C100 101 121 101 139 111S158 132 164 151M103 178C123 171 141 180 151 197S160 226 158 244" stroke-width=".8" opacity=".88" />
+  </g>
+  <g filter="url(#node-glow)" fill="#FFFDF3">
+    <circle cx="58" cy="47" r="2.1" /><circle cx="111" cy="63" r="2" />
+    <circle cx="43" cy="105" r="2.2" /><circle cx="105" cy="103" r="2" />
+    <circle cx="151" cy="112" r="2" /><circle cx="98" cy="157" r="2.1" />
+    <circle cx="124" cy="174" r="2" /><circle cx="153" cy="201" r="2" />
+  </g>
+</svg>

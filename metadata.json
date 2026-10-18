@@ -1,0 +1,6 @@
+{
+  "name": "BhoomiAI - ভূমিলিপি | Historical Land Record Digitization",
+  "description": "AI-Powered Historical Land Record Digitization Platform for scanning, Bengali OCR extraction, mathematical validation, and searchable archive of CS, SA, RS, BS khatians and deeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

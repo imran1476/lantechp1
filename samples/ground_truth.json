@@ -1,0 +1,324 @@
+{
+  "khatian_01": {
+    "survey": "CS",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-ক",
+    "khatianNo": 100,
+    "owners": [
+      {
+        "name": "মোঃ কাল্পনিক আলী",
+        "share": "1/1"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 300,
+        "class": "ধানি",
+        "area": 30,
+        "unit": "শতক"
+      }
+    ],
+    "total": 30,
+    "unit": "শতক",
+    "injectedError": null
+  },
+  "khatian_02": {
+    "survey": "SA",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-খ",
+    "khatianNo": 107,
+    "owners": [
+      {
+        "name": "কাল্পনিক বেগম",
+        "share": "1/2"
+      },
+      {
+        "name": "মোহাম্মদ কাল্পনিক হোসেন",
+        "share": "1/2"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 305,
+        "class": "ভিটা",
+        "area": 8.5,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 306,
+        "class": "পুকুর",
+        "area": 30,
+        "unit": "শতক"
+      }
+    ],
+    "total": 38.5,
+    "unit": "শতক",
+    "injectedError": null
+  },
+  "khatian_03": {
+    "survey": "RS",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-ক",
+    "khatianNo": 114,
+    "owners": [
+      {
+        "name": "মোহাম্মদ কাল্পনিক হোসেন",
+        "share": "1/2"
+      },
+      {
+        "name": "কাল্পনিক খাতুন",
+        "share": "1/4"
+      },
+      {
+        "name": "মুহাম্মদ কাল্পনিক মিয়া",
+        "share": "1/4"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 310,
+        "class": "পুকুর",
+        "area": 30,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 311,
+        "class": "বাগান",
+        "area": 8.5,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 312,
+        "class": "ধানি",
+        "area": 8.5,
+        "unit": "শতক"
+      }
+    ],
+    "total": 47.0,
+    "unit": "শতক",
+    "injectedError": null
+  },
+  "khatian_04": {
+    "survey": "BS",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-খ",
+    "khatianNo": 121,
+    "owners": [
+      {
+        "name": "কাল্পনিক খাতুন",
+        "share": "1/1"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 315,
+        "class": "বাগান",
+        "area": 18,
+        "unit": "শতক"
+      }
+    ],
+    "total": 18,
+    "unit": "শতক",
+    "injectedError": null
+  },
+  "khatian_05": {
+    "survey": "CS",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-ক",
+    "khatianNo": 128,
+    "owners": [
+      {
+        "name": "মুহাম্মদ কাল্পনিক মিয়া",
+        "share": "1/2"
+      },
+      {
+        "name": "মোঃ কাল্পনিক আলী",
+        "share": "1/2"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 320,
+        "class": "ধানি",
+        "area": 8.5,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 321,
+        "class": "ভিটা",
+        "area": 8.5,
+        "unit": "শতক"
+      }
+    ],
+    "total": 17.0,
+    "unit": "শতক",
+    "injectedError": null
+  },
+  "khatian_06": {
+    "survey": "SA",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-খ",
+    "khatianNo": 135,
+    "owners": [
+      {
+        "name": "মোঃ কাল্পনিক আলী",
+        "share": "1/2"
+      },
+      {
+        "name": "কাল্পনিক বেগম",
+        "share": "1/4"
+      },
+      {
+        "name": "মোহাম্মদ কাল্পনিক হোসেন",
+        "share": "1/4"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 325,
+        "class": "ভিটা",
+        "area": 12,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 326,
+        "class": "পুকুর",
+        "area": 18,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 327,
+        "class": "বাগান",
+        "area": 30,
+        "unit": "শতক"
+      }
+    ],
+    "total": 67,
+    "unit": "শতক",
+    "injectedError": "area",
+    "trueTotal": 60
+  },
+  "khatian_07": {
+    "survey": "RS",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-ক",
+    "khatianNo": 142,
+    "owners": [
+      {
+        "name": "কাল্পনিক বেগম",
+        "share": "1/1"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 330,
+        "class": "পুকুর",
+        "area": 25,
+        "unit": "শতক"
+      }
+    ],
+    "total": 25,
+    "unit": "শতক",
+    "injectedError": null
+  },
+  "khatian_08": {
+    "survey": "BS",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-খ",
+    "khatianNo": 149,
+    "owners": [
+      {
+        "name": "মোহাম্মদ কাল্পনিক হোসেন",
+        "share": "1/3"
+      },
+      {
+        "name": "কাল্পনিক খাতুন",
+        "share": "1/2"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 335,
+        "class": "বাগান",
+        "area": 25,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 336,
+        "class": "ধানি",
+        "area": 8.5,
+        "unit": "শতক"
+      }
+    ],
+    "total": 33.5,
+    "unit": "শতক",
+    "injectedError": "share",
+    "trueOwnerShare0": "1/2"
+  },
+  "khatian_09": {
+    "survey": "CS",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-ক",
+    "khatianNo": 156,
+    "owners": [
+      {
+        "name": "কাল্পনিক খাতুন",
+        "share": "1/2"
+      },
+      {
+        "name": "মুহাম্মদ কাল্পনিক মিয়া",
+        "share": "1/4"
+      },
+      {
+        "name": "মোঃ কাল্পনিক আলী",
+        "share": "1/4"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 340,
+        "class": "ধানি",
+        "area": 30,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 341,
+        "class": "ভিটা",
+        "area": 30,
+        "unit": "শতক"
+      },
+      {
+        "dagNo": 342,
+        "class": "পুকুর",
+        "area": 25,
+        "unit": "শতক"
+      }
+    ],
+    "total": 85,
+    "unit": "শতক",
+    "injectedError": null
+  },
+  "khatian_10": {
+    "survey": "SA",
+    "district": "কাল্পনিক জেলা",
+    "mouza": "কাল্পনিক মৌজা-খ",
+    "khatianNo": 163,
+    "owners": [
+      {
+        "name": "মুহাম্মদ কাল্পনিক মিয়া",
+        "share": "1/1"
+      }
+    ],
+    "plots": [
+      {
+        "dagNo": 345,
+        "class": "ভিটা",
+        "area": 30,
+        "unit": "শতক"
+      }
+    ],
+    "total": 30,
+    "unit": "শতক",
+    "injectedError": null
+  }
+}
